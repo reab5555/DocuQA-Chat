@@ -1,4 +1,4 @@
-<img src="appendix/icon.png" alt="Alt text for image1" width="100"/>
+<img src="icon.png" alt="Alt text for image1" width="100"/>
 
 # DocuQA-Chat
 
