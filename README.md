@@ -3,7 +3,7 @@
 This app lets you create a chatbot that can answer your questions based on information from your own documents.  Just upload your files (PDFs, Word documents, or text files), and the app will process them. Then, you can chat with the bot, and it will use the information from your uploaded documents to give you helpful and relevant answers.  It remembers the conversation history so you can have a back-and-forth dialogue with it.
 
 
-**How it works (technical details):**
+## How it works (technical details)
 
 This application uses several libraries to achieve document-based question answering:
 
