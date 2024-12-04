@@ -28,4 +28,4 @@ This application uses several libraries to achieve document-based question answe
 8. **Gradio Interface:** The `gradio` library creates the user interface, allowing users to upload files, initiate processing, and interact with the chatbot. The interface includes file upload controls, a processing status output, a chat window, and buttons for sending messages and clearing the chat history.
 
 
-In summary, the application creates a searchable index of your documents. When you ask a question, it converts your question into an embedding, searches for similar embeddings in the index, retrieves the corresponding text chunks, and uses the LLM to formulate an answer based on the retrieved information and the conversation history.
+In conclusion, the application creates a searchable index of your documents. When you ask a question, it converts your question into an embedding, searches for similar embeddings in the index, retrieves the corresponding text chunks, and uses the LLM to formulate an answer based on the retrieved information and the conversation history.
